@@ -1,3 +1,5 @@
+Annotated topics discussed in the McGill and Concordia subreddit
+
 # Categories for McGill:
 1. Advice
 2. Research
